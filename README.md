@@ -207,16 +207,16 @@ Building, testing, and deploying custom software solutions and applications.
 ## ▌ Current Focus
 
 ```yaml
-current_status:
-  learning:
+Current_status:
+  Learning:
     - "Advanced Full-Stack Architectures"
     - "Data Structures & Algorithmic Design"
-  building:
+  Building:
     - "Web Applications & Utility Tools"
     - "Open Source Repository Enhancements"
-  exploring:
+  Exploring:
     - "New Frameworks and Libraries"
     - "Software Engineering Best Practices"
-  open_to:
+  Open_to:
     - "Software Engineering Opportunities"
     - "Collaborative Development Projects"
