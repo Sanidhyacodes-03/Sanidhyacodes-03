@@ -164,17 +164,31 @@ Programs and utilities focused on improving programming logic, algorithmic think
 
 ---
 
-## ▌ Certifications & Learning
+---
 
-### Current Learning
+## ▌ Certifications
 
-<img src="https://img.shields.io/badge/Software_Engineering-5A189A?style=for-the-badge&logo=codeforces&logoColor=white" />
+<div align="center">
 
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-7B2CBF?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_for_Data_Science-NPTEL-5A189A?style=for-the-badge&logo=python&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Full--Stack_Development-9D4EDD?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Full_Stack_Web_Development-Future_Interns-7B2CBF?style=for-the-badge&logo=react&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Git_%26_GitHub-3C096C?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Maximize_Productivity_With_AI_Tools-Google-9D4EDD?style=for-the-badge&logo=google&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Adobe_University_Hackathon-Adobe-5A189A?style=for-the-badge&logo=adobe&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Data_Analyst_Intern-Unified_Mentor-7B2CBF?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+</div>
+
+| Certification | Organization | Date |
+| :--- | :--- | :--- |
+| **Python for Data Science** | NPTEL | October 2025 |
+| **Full Stack Web Development** | Future Interns | June 2026 |
+| **Maximize Productivity With AI Tools** | Google | August 2026 |
+| **Adobe University Hackathon** | Adobe | August 2026 |
+| **Data Analyst Intern** | Unified Mentor Private Limited | September 2026 |
 
 ---
 
