@@ -222,33 +222,33 @@ Programs and utilities focused on improving programming logic, algorithmic think
 </div>
 
 ---
+---
 
 ## ▌ Contribution Snake
 
 <div align="center">
 
-  <picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sanidhyacodes-03/Sanidhyacodes-03/output/github-contribution-grid-snake-dark.svg"
+  />
 
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Sanidhyacodes-03/Sanidhyacodes-03/output/github-contribution-grid-snake-dark.svg"
-    />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sanidhyacodes-03/Sanidhyacodes-03/output/github-contribution-grid-snake.svg"
+  />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Sanidhyacodes-03/Sanidhyacodes-03/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Sanidhyacodes-03/Sanidhyacodes-03/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/Sanidhyacodes-03/Sanidhyacodes-03/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 </div>
 
+---
 ---
 
 ## ▌ Current Focus
