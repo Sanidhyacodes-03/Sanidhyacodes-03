@@ -13,7 +13,6 @@
 
   <br/><br/>
 
-  <!-- Replace YOUR_PORTFOLIO_URL with your actual portfolio -->
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -22,7 +21,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- Replace YOUR_EMAIL with your actual email -->
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-3C096C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -199,13 +197,13 @@ Programs and utilities focused on improving programming logic, algorithmic think
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sanidhyacodes-03&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=E0AAFF"
+    src="./profile/stats.svg"
     width="48%"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://streak-stats.demolab.com/?user=Sanidhyacodes-03&theme=dracula&hide_border=true&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=9D4EDD&sideLabels=E0AAFF&dates=FFFFFF"
+    src="./profile/streak.svg"
     width="48%"
     alt="GitHub Streak"
   />
@@ -213,27 +211,10 @@ Programs and utilities focused on improving programming logic, algorithmic think
   <br/><br/>
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhyacodes-03&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=E0AAFF"
+    src="./profile/top-langs.svg"
     width="60%"
     alt="Top Languages"
   />
-
-</div>
-
----
-
-## ▌ GitHub Contribution
-
-Your GitHub profile automatically displays your contribution calendar below your profile information.
-
-<div align="center">
-
-  <a href="https://github.com/Sanidhyacodes-03">
-    <img
-      src="https://img.shields.io/badge/View_All_Contributions-7B2CBF?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub Contributions"
-    />
-  </a>
 
 </div>
 
@@ -243,11 +224,23 @@ Your GitHub profile automatically displays your contribution calendar below your
 
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/Sanidhyacodes-03/Sanidhyacodes-03/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sanidhyacodes-03/Sanidhyacodes-03/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sanidhyacodes-03/Sanidhyacodes-03/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Sanidhyacodes-03/Sanidhyacodes-03/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 
 </div>
 
